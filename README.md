@@ -70,6 +70,6 @@ Prediction whether the customer subscribes to a deposit (yes/no)
 
 To use machine learning (Decision Tree) to help banks understand and target customers who are likely to subscribe to term deposits.
 
-📜 License
+7. License
 
 This project is free to use for learning and educational purposes.
